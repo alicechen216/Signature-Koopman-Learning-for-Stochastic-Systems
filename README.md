@@ -11,3 +11,7 @@ This repository contains code to validate the use of signature transforms for Ko
 
 ## ▶️ How to Run
 Run the main script:
+
+![Trajectories](trajectories.png)
+
+![R^2](R2.png)
